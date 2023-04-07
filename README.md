@@ -1,5 +1,6 @@
 # sudety-resources
-Resources that I found useful
+
+Resources that I found useful. PRs are welcome
 
 | seen_at    | description | link |
 | ---------- | ----------- | ---- |
