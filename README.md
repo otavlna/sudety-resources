@@ -16,11 +16,11 @@ Table of Contents
 
 | tags | description | source |
 | --- | --- | --- |
-| `developer roadmap` | Developer roadmaps for several technologies | [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) |
+| `developer roadmap` | Developer roadmaps for several technologies | [github](https://github.com/kamranahmedse/developer-roadmap) |
 
 ## General web stuff
 
 | tags | description | source |
 | --- | --- | --- |
-| `oauth` <br> `open id connect` | OAuth2 and Open ID Connect explained in 1 hour | [https://www.youtube.com/watch?v=996OiexHze0](https://www.youtube.com/watch?v=996OiexHze0) |
+| `oauth` <br> `open id connect` | OAuth2 and Open ID Connect explained in 1 hour | [youtube](https://www.youtube.com/watch?v=996OiexHze0) |
 
