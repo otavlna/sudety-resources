@@ -38,3 +38,4 @@ Table of Contents
 | tags | description | source |
 | --- | --- | --- |
 | `nosql` | Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (also applies to other NoSQL databases) | [youtube](https://www.youtube.com/watch?v=HaEPXoXVf2k) |
+| `dynamodb` | DynamoDB guide | https://www.dynamodbguide.com |
