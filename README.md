@@ -20,7 +20,7 @@ Table of Contents
 | --- | --- | --- |
 | `developer roadmap` | Developer roadmaps for several technologies | [github](https://github.com/kamranahmedse/developer-roadmap) |
 
-## General web stuff
+## General web dev stuff
 
 | tags | description | source |
 | --- | --- | --- |
